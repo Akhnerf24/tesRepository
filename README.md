@@ -4,10 +4,6 @@
 # Repository Tes
 
 A brief description of what this project does and who it's for
-A brief description of what this project does and who it's for
-A brief description of what this project does and who it's for
-A brief description of what this project does and who it's for
-A brief description of what this project does and who it's for
-A brief description of what this project does and who it's for
+Bambang 123
 
 
